@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eslam S Rady-Mtra-</h1>
 <h3 align="center"> Senior2 Mechatronics.ASU | Valeo Techie Degree 2023 |  Intern @ SIEMENS  |  Si-Vision  |  Schneider</h3>
 
-<p align="center">
-- 📫 How to reach me **Eselmtrawy@gmail.com**</h3>
-<p align="center">
+<p align="left">
+- 📫 How to reach me **Eselmtrawy@gmail.com**
 - 📄 Feel free to ask for my resume [Link]
 (https://drive.google.com/file/d/1ijeeRVkpmTIlhGaoPnuDqKGYHgCv7tR8/view?usp=share_link)
 

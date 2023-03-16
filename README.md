@@ -24,8 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esmtra&show_icons=true&locale=en" alt="esmtra" /></p>
 
 
-
-### ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Esmtra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

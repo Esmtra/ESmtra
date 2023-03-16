@@ -5,9 +5,8 @@
 - 📫 How to reach me **Eselmtrawy@gmail.com**
 
 - 📄 Feel free to ask for my resume [Link](https://drive.google.com/file/d/1ijeeRVkpmTIlhGaoPnuDqKGYHgCv7tR8/view?usp=share_link)
-<p align="center"> 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eslam-mtra-1714201b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam-mtra-1714201b7" height="30" width="40" /></a>
 <a href="https://fb.com/easlm.elmatrawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="easlm.elmatrawy" height="30" width="40" /></a>

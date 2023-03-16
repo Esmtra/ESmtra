@@ -22,3 +22,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmtra&show_icons=true&locale=en&layout=compact" alt="esmtra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esmtra&show_icons=true&locale=en" alt="esmtra" /></p>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Esmtra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Esmtra&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

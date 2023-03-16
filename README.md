@@ -2,9 +2,10 @@
 <h3 align="center"> Senior2 Mechatronics.ASU | Valeo Techie Degree 2023 |  Intern @ SIEMENS  |  Si-Vision  |  Schneider</h3>
 
 <p align="center">
-- 📫 How to reach me **Eselmtrawy@gmail.com**
+- 📫 How to reach me **Eselmtrawy@gmail.com**</h3>
 <p align="center">
-- 📄 Feel free to ask for my resume [Link](https://drive.google.com/file/d/1ijeeRVkpmTIlhGaoPnuDqKGYHgCv7tR8/view?usp=share_link)
+- 📄 Feel free to ask for my resume [Link]
+(https://drive.google.com/file/d/1ijeeRVkpmTIlhGaoPnuDqKGYHgCv7tR8/view?usp=share_link)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

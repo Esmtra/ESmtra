@@ -31,7 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Esmtra&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- <p align="center">  -->
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Esmtra/count.svg" />
 </p>

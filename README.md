@@ -29,9 +29,9 @@
 ### ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
-[![](https://visitcount.itsvg.in/api?id=Esmtra&icon=5&color=0)](https://visitcount.itsvg.in)
-
+<!-- [![](https://visitcount.itsvg.in/api?id=Esmtra&icon=5&color=0)](https://visitcount.itsvg.in)
+ -->
 <p align="center"> 
   Visitor count<br>
-<!--   <img src="https://profile-counter.glitch.me/Esmtra/count.svg" /> -->
+  <img src="https://profile-counter.glitch.me/Esmtra/count.svg" />
 </p>

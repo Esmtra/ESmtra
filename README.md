@@ -7,6 +7,8 @@
 - 📫 How to reach me **Eselmtrawy@gmail.com**
 
 - 📄 Feel free to ask for my resume_[link](https://drive.google.com/file/d/1jb0QK1YeOftJssi4s9sfAUoXoXd74Hb-/view?usp=sharing)
+  [Resume](https://drive.google.com/file/d/1jb0QK1YeOftJssi4s9sfAUoXoXd74Hb-/view?usp=sharing)
+
 
 
 <h3 align="left">Connect with me:</h3>
